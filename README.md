@@ -125,7 +125,7 @@ No code changes are needed to swap in real assets — replace files in `public/`
 | Asset | Location |
 |-------|----------|
 | Company logo | `public/LOGO.jpg` |
-| SCADA 1 | `public/mock-screens/scada1.jpg` |
+| SCADA 1 | `public/mock-screens/scada1.gif` |
 | SCADA 2 | `public/mock-screens/scada2.jpg` |
 | SCADA 3 | `public/mock-screens/scada3.avif` |
 | SCADA 4 | `public/mock-screens/scada9.png` |

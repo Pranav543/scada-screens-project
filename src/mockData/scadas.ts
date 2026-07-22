@@ -5,7 +5,7 @@ export interface Scada {
 }
 
 export const scadas: Scada[] = [
-  { id: 1, name: "SCADA 1", image: "/mock-screens/scada1.jpg" },
+  { id: 1, name: "SCADA 1", image: "/mock-screens/scada1.gif" },
   { id: 2, name: "SCADA 2", image: "/mock-screens/scada2.jpg" },
   { id: 3, name: "SCADA 3", image: "/mock-screens/scada3.avif" },
   { id: 4, name: "SCADA 4", image: "/mock-screens/scada9.png" },
